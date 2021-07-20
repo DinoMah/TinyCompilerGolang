@@ -1,0 +1,50 @@
+int vector, do y mas, restas, suma1, su|ma2, 25ert;
+principal, si(cuando)si+34.34.34.34.34-34 +++--
+cin>>>=<<<====!="micadena"-----+++++
++-*/%<<=>>===!=:=(){}///*++--,
+main{ 
+main,if,then,else end,do,
+while,repeat,until,read,write,float,integer,bool
+integer x,y,z;
+float a,b,c;
+x = 23; 35.25.36
+y = 2+3-1;
+z = y7;
+a = 24,4-1*3/234-1;
+if (2>3)
+        y=a%3;
+  mas
+      if(4>2)b=3,2;
+       mas
+           b=5,0;
+       terminar;
+       y=y+1;
+terminar;hacer
+y=(y+1)*21;
+while(y==5);
+repeat until(y==0){
+write x;
+read y,c,478.32.32
+};
+}
+
+// Esto Es uN Comentario
+
+/*
+de
+
+mas
+
+
+de
+
+Una
++ + +
+****
+
+linea
+
+un
+*/
+if ya si termino
+while
